@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Saarthe</string>
+    <string name="accessibility_description">Saarthe reads visible chat text only after you explicitly enable the Android accessibility service, so it can translate messages and show reply suggestions.</string>
+</resources>
